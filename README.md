@@ -1,6 +1,6 @@
 # Keptn Helm Charts
 
-# Keptn V1 has reached end of life on December 22nd, 2023 and has been [#replaced.](https://github.com/keptn/keptn.github.io/pull/1663/files)
+## Keptn V1 has reached end of life on December 22nd, 2023 and has been [replaced.](https://github.com/keptn/keptn.github.io/pull/1663/files)
 The code is provided as-is with no warranties.
 
 ## Usage
